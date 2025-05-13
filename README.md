@@ -28,4 +28,4 @@
 ## 🚀 使用方式
 
 ```bash
-curl -O http://cdn.xiaohuang.xyz:9999/bash/openstack/openstack/install.sh && chmod +x install_openstack.sh && ./install_openstack.sh
+curl -O http://cdn.xiaohuang.xyz:9999/bash/openstack/openstack/cxk.sh && chmod +x cxk.sh && ./cxk.sh
